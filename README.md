@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/45f5542a-07e7-4fd1-826a-c691452f97e8/deploy-status)](https://app.netlify.com/sites/btopro-my-block/deploys)
+![Vercel Deploy](https://deploy-badge.vercel.app/vercel/my-block-seven)
+
 # my-block
 DDD + Lit web component based on OpenWC toolchain. This is intended to provide the following:
 - Look good via DDD, HAX design system
